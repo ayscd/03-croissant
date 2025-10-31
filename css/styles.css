@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 40px;
+}
+
+p {
+    text-align: justify;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+a, a:visited {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    color:blueviolet;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.links {
+    display: block;
+}
