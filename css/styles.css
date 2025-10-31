@@ -10,6 +10,11 @@ p {
     padding: 5px;
 }
 
+img {
+    display: block;
+    width: 100%;
+}
+
 a, a:visited {
     color: brown;
     text-decoration: none;
